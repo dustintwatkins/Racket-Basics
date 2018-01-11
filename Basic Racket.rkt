@@ -5,7 +5,7 @@
 ;Sum Coins
 
 (define (sum-coins p n d q)
-  (+ (* .1 d)(+ (* .05 n)(+ (* .01 p)(* .25 q)))))
+  (+ (* 1 d)(+ (* 5 n)(+ (* 10 p)(* 25 q)))))
 
 ;Degrees to Radians
 
